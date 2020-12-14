@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/workspace/device/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/device/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/device/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/device/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/device/pi4j-example.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/device/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/device/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
